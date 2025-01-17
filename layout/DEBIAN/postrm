@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "NoAutoDisableLPMLegacy (postrm): Killing contextstored"
+killall -9 powerd
+exit 0
