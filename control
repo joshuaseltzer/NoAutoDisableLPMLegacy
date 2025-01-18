@@ -2,7 +2,7 @@ Package: com.joshuaseltzer.noautodisablelpmlegacy
 Name: NoAutoDisableLPMLegacy
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Prevents the system from automatically disabling Low Power Mode when the battery reaches 80%. Should work on iOS 14 and lower (untested). Research and investigation credit goes to @PoomSmart.
+Description: Prevents the system from automatically disabling Low Power Mode when the battery reaches 80%. Tested on iOS 14 (should also work on lower versions). Research and investigation credit goes to @PoomSmart.
 Maintainer: Joshua Seltzer <joshua.seltzer90@gmail.com>
 Author: Joshua Seltzer <joshua.seltzer90@gmail.com>
 Section: Tweaks
